@@ -15,7 +15,9 @@ Seaborn
 
 # Exploratory Data Analysis (EDA)
 During the EDA process, the following steps were taken:
+
 Data Cleaning: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
+
 Visualization: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable.
 
 # Conclusion
