@@ -7,10 +7,10 @@ In this task, I have performed Exploratory Data Analysis (EDA) on a dataset prov
 The dataset I've used is world_population_dataset. This dataset contains records of population from the year 2001 to 2022.
 
 # Tools and Libraries used:
-Jupyter notebook
-Numpy
-Pandas
-Matplotlib
+Jupyter notebook,
+Numpy,
+Pandas,
+Matplotlib,
 Seaborn
 
 # Exploratory Data Analysis (EDA)
