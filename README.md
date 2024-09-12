@@ -1,25 +1,18 @@
 # PRODIGY_DS_01
 
-Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech.
-In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical variable.
+Welcome,
+In this task for my Data Science Internship at Prodigy Infotech, I performed Exploratory Data Analysis (EDA) on the world_population_dataset (2001-2022), with a focus on visualization to represent data distribution.
 
-# Dataset
-The dataset I've used is world_population_dataset. This dataset contains records of population from the year 2001 to 2022.
+# Tools Used
+- Jupyter Notebook
+- Numpy, Pandas
+- Matplotlib, Seaborn
 
-# Tools and Libraries used:
-Jupyter notebook,
-Numpy,
-Pandas,
-Matplotlib,
-Seaborn
-
-# Exploratory Data Analysis (EDA)
-During the EDA process, the following steps were taken:
-
-Data Cleaning: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
-
-Visualization: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable.
+# EDA Process
+- Data Cleaning: Managed missing values, duplicates, and outliers.
+- Visualization: Created bar and stacked charts to clearly represent the distribution of key variables, providing crucial insights through visual interpretation.
 
 # Conclusion
-In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
+Visualizations played a central role in uncovering patterns and trends, making this EDA a strong foundation for further exploration and data modeling.
+
 Thank you for reviewing my submission!
